@@ -1,0 +1,27 @@
+{
+  "id": "cbb7f6c2-76e7-419e-97f4-8cde33a5c740",
+  "name": "Customer Twitter",
+  "publisher": "Stjepan Vinski",
+  "brief": "Show's Twitter posts on customer card page",
+  "description": "You can set up a Customers twitter code to see it on the Customer card page",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://www.linkedin.com/in/stjepan-vinski-95b06534/",
+  "logo": "SV.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "features": 
+  [
+    "TranslationFile"
+  ],
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.3"
+}
